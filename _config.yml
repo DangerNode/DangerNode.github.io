@@ -1,1 +1,8 @@
+title: DangerNode.com
+markdown: kramdown
 theme: jekyll-theme-cayman
+twitter_username: DangerNode
+github_username: DangerNode
+exclude:
+  - Gemfile
+  - Gemfile.lock
